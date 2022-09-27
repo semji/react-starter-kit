@@ -1,0 +1,11 @@
+version: "3.4"
+
+services:
+  starter_kit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/starter_kit:rw,cached
+    ports:
+      - "3082:3082"
