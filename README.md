@@ -1,1 +1,1 @@
-# starter_kit
+# react starter kit
