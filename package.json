@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "packageManager": "yarn@3.2.3",
+  "packageManager": "yarn@3.8.5",
   "devDependencies": {
     "eslint": "^8.0.0",
     "eslint-config-react-app": "^7.0.1",
