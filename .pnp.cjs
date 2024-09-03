@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@testing-library/react", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.5.0"],\
             ["eslint", "npm:8.57.0"],\
@@ -3981,7 +3981,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],\
       ["@surma/rollup-plugin-off-main-thread", [\
         ["npm:2.2.3", {\
-          "packageLocation": "./.yarn/cache/@surma-rollup-plugin-off-main-thread-npm-2.2.3-1f57d3eded-2c02134944.zip/node_modules/@surma/rollup-plugin-off-main-thread/",\
+          "packageLocation": "./.yarn/unplugged/@surma-rollup-plugin-off-main-thread-npm-2.2.3-1f57d3eded/node_modules/@surma/rollup-plugin-off-main-thread/",\
           "packageDependencies": [\
             ["@surma/rollup-plugin-off-main-thread", "npm:2.2.3"],\
             ["ejs", "npm:3.1.8"],\
@@ -4163,10 +4163,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@testing-library/jest-dom", [\
-        ["npm:5.16.5", {\
-          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-5.16.5-b6d1f4e02f-94911f901a.zip/node_modules/@testing-library/jest-dom/",\
+        ["npm:5.17.0", {\
+          "packageLocation": "./.yarn/cache/@testing-library-jest-dom-npm-5.17.0-a702605ee4-9f28dbca8b.zip/node_modules/@testing-library/jest-dom/",\
           "packageDependencies": [\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@adobe/css-tools", "npm:4.0.1"],\
             ["@babel/runtime", "npm:7.19.0"],\
             ["@types/testing-library__jest-dom", "npm:5.14.5"],\
@@ -15461,7 +15461,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["starter_kit", "workspace:."],\
-            ["@testing-library/jest-dom", "npm:5.16.5"],\
+            ["@testing-library/jest-dom", "npm:5.17.0"],\
             ["@testing-library/react", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.5.0"],\
             ["eslint", "npm:8.57.0"],\
