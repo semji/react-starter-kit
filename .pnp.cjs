@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/user-event", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.5.0"],\
             ["eslint", "npm:8.57.0"],\
             ["eslint-config-react-app", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:7.0.1"],\
-            ["prettier", "npm:2.8.8"],\
+            ["prettier", "npm:3.3.3"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:18.3.1"],\
             ["react-scripts", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:5.0.1"],\
@@ -14266,10 +14266,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.8.8", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-b49e409431.zip/node_modules/prettier/",\
+        ["npm:3.3.3", {\
+          "packageLocation": "./.yarn/unplugged/prettier-npm-3.3.3-e811f023f3/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.8.8"]\
+            ["prettier", "npm:3.3.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -15710,7 +15710,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/user-event", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:13.5.0"],\
             ["eslint", "npm:8.57.0"],\
             ["eslint-config-react-app", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:7.0.1"],\
-            ["prettier", "npm:2.8.8"],\
+            ["prettier", "npm:3.3.3"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:18.3.1"],\
             ["react-scripts", "virtual:b67a0f65ee77768174381cc6c1aeaf1e0f1c2869fdbaa3953c83bb8df5d9ecb2ecfb26012f2ac855ea7501b5984a2dcd2b7b6bcf9661ccbccb3bf0c4d226b01c#npm:5.0.1"],\
